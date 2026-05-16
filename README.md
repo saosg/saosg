@@ -1,4 +1,4 @@
-# Hi there, I'm saosg 👋
+# Hi there, I'm Salah Eddine Boutal 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about creating meaningful projects and contributing to the open-source community.
 
